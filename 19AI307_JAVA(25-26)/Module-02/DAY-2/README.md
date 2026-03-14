@@ -67,5 +67,6 @@ class prog
 
 
 
+
 ## RESULT:
 The program successfully calculates and displays the cube of the given number using the square method.
