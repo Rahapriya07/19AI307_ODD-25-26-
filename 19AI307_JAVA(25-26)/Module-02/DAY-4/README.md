@@ -62,7 +62,7 @@ class prog
 
 
 ## OUTPUT:
-
+![alt text](2D.png)
 
 
 
