@@ -132,6 +132,7 @@ public class Main {
 
 
 ## OUTPUT:
+![alt text](3A.png)
 
 
 
