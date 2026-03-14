@@ -95,8 +95,11 @@ public class Person
 
 
 ## OUTPUT:
-The program successfully stores the name, age, and country of a person using encapsulation (getter and setter methods) and displays the details.
+
+![alt text](2C.png)
+
 
 
 
 ## RESULT:
+The program successfully stores the name, age, and country of a person using encapsulation (getter and setter methods) and displays the details.
