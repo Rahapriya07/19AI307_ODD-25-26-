@@ -113,16 +113,11 @@ class prog
 */
 ```
 
-## SOURCE CODE:
-
-
-
-
 
 
 
 ## OUTPUT:
-
+![alt text](3C.png)
 
 
 ## RESULT:
