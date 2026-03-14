@@ -70,6 +70,7 @@ class prog {
 
 
 ## OUTPUT:
+![alt text](2E.png)
 
 
 
