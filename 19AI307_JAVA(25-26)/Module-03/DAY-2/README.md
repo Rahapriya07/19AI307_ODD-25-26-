@@ -79,7 +79,7 @@ class prog {
 */
 ```
 ## OUTPUT:
-
+![alt text](3B.png)
 
 
 ## RESULT:
