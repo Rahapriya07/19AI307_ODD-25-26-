@@ -115,6 +115,7 @@ public class prog
 
 
 ## OUTPUT:
+![alt text](3D.png)
 
 
 
