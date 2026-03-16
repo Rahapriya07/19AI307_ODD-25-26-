@@ -70,7 +70,7 @@ public class main
 
 
 ## OUTPUT:
-
+![alt text](JM1D1.png)
 
 ## RESULT:
 The program successfully performs bitwise operations (AND, OR, XOR, left shift, and right shift) on two given integers and displays the results.
