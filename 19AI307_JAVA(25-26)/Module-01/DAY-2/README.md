@@ -61,7 +61,7 @@ public class LibraryFine {
 
 ## OUTPUT:
 
-
+![alt text](JM1D2.png)
 
 ## RESULT:
 The program successfully calculates the library fine based on the number of late days and displays the fine or the membership cancellation message.
