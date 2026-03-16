@@ -63,7 +63,7 @@ public class ReverseNumber {
 
 ## OUTPUT:
 
-
+![alt text](JM1D3.png)
 
 ## RESULT:
 The program successfully reverses the digits of the given integer using a while loop and displays the reversed number.
