@@ -62,6 +62,7 @@ class prog
 
 
 ## OUTPUT:
+![alt text](JM1D5.png)
 
 
 
