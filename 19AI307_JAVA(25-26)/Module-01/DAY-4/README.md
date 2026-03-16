@@ -59,7 +59,7 @@ public class MaxOddNumber {
 
 ## OUTPUT:
 
-
+![alt text](JM1D4.png)
 
 ## RESULT:
 The program successfully finds and displays the maximum odd number in the array or prints "No odd number found" if none exist.
